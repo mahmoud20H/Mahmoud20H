@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Mahmoud Hussein and I'm a DevOps Engineer with hands-on experience in CI/CD, cloud, and automation<br>Skilled in GitHub Actions, Docker, Kubernetes, and AWS (EC2, S3, IAM, VPC)<br>AWS Certified (Cloud Practitioner & SysOps Administrator – Associate)<br>Passionate about building reliable systems and continuously learning new technologies 🚀<br>Debugging issues at 2:00 AM is not a bug… it’s a lifestyle</p>
+<p align="left">My name is Mahmoud Hussein and I'm a DevOps Engineer with hands-on experience in CI/CD, cloud, and automation<br>Skilled in GitHub Actions, Docker, Kubernetes, and AWS (EC2, S3, IAM, VPC)<br>AWS Certified (Cloud Practitioner & SysOps Administrator – Associate &  AWS Certified Solutions Architect – Professional )<br>Passionate about building reliable systems and continuously learning new technologies 🚀<br>Debugging issues at 2:00 AM is not a bug… it’s a lifestyle</p>
 
 ###
 
