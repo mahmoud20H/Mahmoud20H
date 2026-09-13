@@ -72,17 +72,6 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats</h2>
-
-###
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud20H&show_icons=true&theme=cobalt&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud20H&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" />
-</p>
-
-###
-
 <h2 align="left">📫 Connect with me</h2>
 
 ###
